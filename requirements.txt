@@ -1,0 +1,8 @@
+gymnasium[box2d]
+stable-baselines3[extra]
+shimmy>=0.2.1
+box2d-py==2.3.8
+numpy
+pandas
+matplotlib
+seaborn
