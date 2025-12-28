@@ -19,7 +19,7 @@ The project explores the transition from on-policy methods (PPO) to off-policy d
 | **PPO-Adv-gSDE** | `sota_ppo_v3_hardcore` | Hardcore-v3 | gSDE, Large Net | 60k* | -122.9 | Failed |
 | **PPO-Advanced** | `sota_ppo_v3_1_hardcore` | Hardcore-v3 | -gSDE (Standard Noise) | 3M | 112.9 | Converging (Stuck) |
 | **TQC-Best** | `tqc_v3_hardcore_rerun...1928` | Hardcore-v3 | TQC (Off-Policy) | 3M | 274.2 | Almost Solved |
-| **TQC-Resume** | `...1928_resume_3M` | Hardcore-v3 | Continued Training | 4.8M | **281.3** | **Solved** |
+| **TQC-Resume** | `...1928_resume_3M` | Hardcore-v3 | Continued Training | 4.8M | **281.3** | **Nearly Solved** |
 | **TQC-5M** | `tqc_v3_hardcore_5M` | Hardcore-v3 | Long Training (1 Run) | 5M | 249.2 | Regression |
 
 **Note: PPO-Adv-gSDE was interrupted early due to evident instability/failure.*
